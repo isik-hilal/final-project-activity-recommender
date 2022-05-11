@@ -1,0 +1,48 @@
+Francesca Logiacco and Hilal Işık
+
+Final Project
+This project is created and shared by the mentioned authors, 
+with each joint author enjoying an equal interest in the undivided whole.
+
+
+'Find best fitting activity for a Summer Day in Berlin-2022'
+
+We want to give the best summer 2022(may-august) activity tipp according to the interests and max budget information of the user. For that purpose we are going to combine different sources:
+
+1- Eventbrite
+- Using the API to download the event informations
+
+2- Gratis-in-Berlin
+- Using the Webscraping method to download the event informations
+
+3- Parks and Lakes in Berlin
+- csv files we prepared with the info from Berlin Bezirksamt and Visit Berlin websites. 
+
+Used websites:
+
+Parks
+https://www.berlin.de/ba-mitte/ueber-den-bezirk/sehenswertes/parks-und-gaerten/
+https://www.visitberlin.de/de/parks-gaerten-berlin/bezirk/charlottenburg-wilmersdorf
+https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/freiflaechen/parks/
+http://www.suedwestweb-berlin.de/struktur/v0171/s0171.html
+https://www.berlin.de/ba-neukoelln/ueber-den-bezirk/sehenswertes/artikel.94936.php
+https://www.berlin.de/ba-neukoelln/ueber-den-bezirk/sehenswertes/artikel.94936.php
+https://www.spandau-tourist-info.de/parks-gruenzuege-wald/
+https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/kultur-freizeit/parks-brunnen/
+https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/kultur-freizeit/parks-brunnen/
+
+Lakes
+https://www.voucherwonderland.com/reisemagazin/seen-in-berlin/
+https://de.wikipedia.org/wiki/Liste_der_Seen_in_Berlin
+
+
+We are going to combine all these data and the tools to give the best activity tipp to the user. 
+How does the process works:
+
+-The user is going to give the inputs such as max budget, date and interest(music, sport, literature)
+-It will try to find matching event from eventbrite/(songkick) and gratisin
+-if there is no match, we are going to ask the user to give us the district info and their interests(chilling or swimming)
+-It will check the best matching park or lake around the user's neighbourhood
+
+
+
