@@ -10,7 +10,7 @@ with each joint author enjoying an equal interest in the undivided whole.
 We want to give the best summer 2022(may-august) activity tipp according to the interests and max budget information of the user. For that purpose we are going to combine different sources:
 
 1- Eventbrite
-- Using the API to download the event informations
+- Using the API and the Webscraping to get the event informations
 
 2- Gratis-in-Berlin
 - Using the Webscraping method to download the event informations
@@ -39,9 +39,9 @@ https://de.wikipedia.org/wiki/Liste_der_Seen_in_Berlin
 We are going to combine all these data and the tools to give the best activity tipp to the user. 
 How does the process works:
 
--The user is going to give the inputs such as max budget, date and interest(music, sport, literature)
--It will try to find matching event from eventbrite/(songkick) and gratisin
--if there is no match, we are going to ask the user to give us the district info and their interests(chilling or swimming)
+-The user is going to give the inputs such as if they have budget, and what are their desired date and their interest(music, sport, literature)
+-It will try to find matching event from eventbrite and gratisin
+-if there is no match, we are going to ask the user to give us the district info and their interests(lake or park)
 -It will check the best matching park or lake around the user's neighbourhood
 
 
