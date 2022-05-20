@@ -1,0 +1,148 @@
+'District','Park name','preis'
+'mitte','Großer Tiergarten',0
+'mitte','Henriette-Herz-Park',0
+'mitte','Kleiner Tiergarten',0
+'mitte','Schloßpark Bellevue',0
+'mitte','Spreebogenpark',0
+'mitte','Tilla-Durieux-Park'0
+'mitte','Zoologischer Garten',0
+'mitte','Carl-von-Ossietzky-Park',0
+'mitte','Fritz-Schloß-Park',0
+'mitte','Geschichtspark Ehemaliges Zellengefängnis Moabit',0
+'mitte','Moabiter Werder',0
+'mitte','Ottopark',0
+'mitte','Präsidentendreieck',0
+'mitte','Goethepark',0
+'mitte','Schillerpark',0
+'mitte','Sprengelpark',0
+'mitte','Volkspark Rehberge',0
+'mitte','Park am Nordbahnhof',0
+'mitte','Volkspark Humboldthain',0
+'mitte','Invalidenpark',0
+'mitte','James-Simon-Park'
+'mitte','Köllnischer Park',0
+'mitte','Krausnickpark',0
+'mitte','Luisenstädtischer Kirchpark',0
+'mitte','Lustgarten',0
+'mitte','Marx-Engels-Forum',0
+'mitte','Monbijoupark',0
+'mitte','Park im ehemaligen Luisenstädtischen Kanal',0
+'mitte','Volkspark am Weinberg',0
+'charlottenburg-wilmersdorf','Grunewald',0
+'charlottenburg-wilmersdorf','Lietzenseepark',0
+'charlottenburg-wilmersdorf','Brixplatz',0
+'charlottenburg-wilmersdorf','Friedenthalpark',0
+'charlottenburg-wilmersdorf','Georg-Kolbe-Hain',0
+'charlottenburg-wilmersdorf','Gerhart-Hauptmann-Anlage',0
+'charlottenburg-wilmersdorf','Kuno-Fischer-Platz',0
+'charlottenburg-wilmersdorf','Margarete-und-Arthur-Eloesser-Park',0
+'charlottenburg-wilmersdorf','Melli-Beese-Anlage',0
+'charlottenburg-wilmersdorf','Messelpark',0
+'charlottenburg-wilmersdorf','Österreichpark',0
+'charlottenburg-wilmersdorf','Preußenpark',0
+'charlottenburg-wilmersdorf','Ruhwaldpark',0
+'charlottenburg-wilmersdorf','Schustehruspark',0
+'charlottenburg-wilmersdorf','Villa und Garten Harteneck',0
+'charlottenburg-wilmersdorf','Volkspark Jungfernheide',0
+'charlottenburg-wilmersdorf','Volkspark Wilmersdorf',0
+'charlottenburg-wilmersdorf','Schlossgarten Charlottenburg',0
+'lichtenberg','Landschaftspark Herzberge',0
+'lichtenberg','Oberseepark und Orankesee',0
+'lichtenberg','Stadtpark Lichtenberg',0
+'lichtenberg','Tierpark Berlin',16
+'pankow','Wasserturm am Kollwitzplatz',0
+'pankow','Botanischer Volkspark Blankenfelde',0
+'pankow','Bürgerpark Pankow',0
+'pankow','Leise-Park',0
+'pankow','Mauerpark',0
+'pankow','Naturpark Barnim',0
+'pankow','Volkspark Prenzlauer Berg',0
+'reicknickendorf','Buddhistisches Haus',0
+'reicknickendorf','Gartenstadt Frohnau',0
+'reicknickendorf','Tegeler Fließ',0
+'steglitz-zehlendorf','Botanischer Garten und Botanisches Museum',6
+'steglitz-zehlendorf','Bäkepark',0
+'steglitz-zehlendorf','Schoßpark Lichterfelde',0
+'steglitz-zehlendorf','Insulaner',0
+'steglitz-zehlendorf','Park am Lilienthal-Denkmal',0
+'steglitz-zehlendorf','Lilienthalpark und Gedenkstätte',0
+'steglitz-zehlendorf','Ruth-Andreas-Friedrich-Park',0
+'steglitz-zehlendorf','Fliegeberg',0
+'steglitz-zehlendorf','Königliche Gartenakademie', 0
+'steglitz-zehlendorf','Schloss Pfaueninsel', 0
+'steglitz-zehlendorf','Schloss Glienicke',0
+'steglitz-zehlendorf','Stadtpark Steglitz',0 
+'friedrichshain-kreuzberg','Holzmarkt',0
+'friedrichshain-kreuzberg','Mörchenpark',0
+'friedrichshain-kreuzberg','Park am Gleisdreieck',0 
+'friedrichshain-kreuzberg','Prinzessinnengärten',0
+'friedrichshain-kreuzberg','Rosengarten Karl-Marx-Allee',0
+'friedrichshain-kreuzberg','Viktoriapark',0
+'friedrichshain-kreuzberg', 'Volkspark Friedrichshain',0
+'friedrichshain-kreuzberg','Volkspark Hasenheide',0
+'marzahn-hellersdorf','Gärten der Welt',7
+'marzahn-hellersdorf','Hochzeitspark',0
+'marzahn-hellersdorf','Kienberg mit Seilbahn' 6.5
+'marzahn-hellersdorf','Schloss Biesdorf',0 
+'neukölln','Britzer Garten',0
+'neukölln','Britzer Seeterrassen',0
+'neukölln','Gutspark Britz/Schlosspark (Schloss Britz),0
+'neukölln','Dörferblick',0
+'neukölln','Comenius-Garten,0
+'neukölln','Körnerpark',0
+'neukölln','Lessinghöhe',0
+'neukölln','Park am Buschkrug',0
+'neukölln','Rudower Fließ',0
+'neukölln','Rudower Höhe',0
+'neukölln','Rudower Wäldchen',0
+'neukölln','Thomashöhe',0
+'neukölln','Von-der-Schulenburg-Park',0
+'spandau','Stabholzgarten',0
+'spandau','Landhausgarten Fränkel',0
+'spandau','Koeltzepark',0
+'spandau','Münsingerpark',0
+'spandau','Spektegrünzung',0
+'spandau','Wröhmännerpark',0
+'spandau','Pichelswerder',0
+'spandau','Gutspark Neu-Kladow',0
+'spandau','Südpark',0
+'spandau','Spandauer Forst',0
+'spandau','Rieselfelder in Gatow',0
+'spandau','Maselakepark',0
+'spandau','Havelwiesen',0
+'spandau','Krienicke Park',0
+'spandau','Hahneberg',0
+'spandau','Gutpark Gross Glienicke',0
+'spandau','Lindenufer',0
+'tempelhof- schöneberg','Natur-park Schöneberger Südgelände',0
+'tempelhof- schöneberg','Tempelhofer Feld',0
+'tempelhof- schöneberg','Grünzug Tempelhof-Schöneberg',0
+'tempelhof- schöneberg','Alboinplatz und Blanke Helle',0
+'tempelhof- schöneberg','Alice-Salomon-Park',0
+'tempelhof- schöneberg','Bosepark',0
+'tempelhof- schöneberg','Bayerischer Platz',0
+'tempelhof- schöneberg','Francke-Park',0
+'tempelhof- schöneberg','Flaschenhalspark',0
+'tempelhof- schöneberg','Grüngürtel am Parkring',0
+'tempelhof- schöneberg','Marienfelde',0
+'tempelhof- schöneberg','Friedrich-Wilhelm-Platz',0
+'tempelhof- schöneberg','Marienhöhe',0
+'tempelhof- schöneberg','Gleditschpark',0
+'tempelhof- schöneberg','Hans-Baluschek-Park',0
+'tempelhof- schöneberg','Heinrich-Lassen-Park',0
+'tempelhof- schöneberg','Heinrich-von-Kleist-Park',0
+'tempelhof- schöneberg','Kurt-Hiller-Park',0
+'tempelhof- schöneberg','Lichtenrader Volkspark',0
+'tempelhof- schöneberg','Platz der Luftbrücke',0
+'tempelhof- schöneberg','Wäldchen am Kirchhainer Damm',0
+'tempelhof- schöneberg','Nelly-Sachs-Park',0
+'tempelhof- schöneberg','Nord-Süd-Grünzug',0
+'tempelhof- schöneberg','Rudolph-Wilde-Park',0
+'tempelhof- schöneberg','Perelsplatz',0
+'tempelhof- schöneberg','Viktoria-Luise-Platz',0
+'tempelhof- schöneberg','Volkspark Mariendorf',0
+'tempelhof- schöneberg','Gutspark Marienfelde',0
+'tempelhof- schöneberg','Alter Park',0
+'tempelhof- schöneberg','Cheruskerpark',0
+'tempelhof- schöneberg','Grünanlage GASAG Nordspitze',0
+'tempelhof- schöneberg','Nachtbucht',0
